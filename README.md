@@ -1,0 +1,2 @@
+# UniversityAPI
+UniversityAPI using FastAPI
